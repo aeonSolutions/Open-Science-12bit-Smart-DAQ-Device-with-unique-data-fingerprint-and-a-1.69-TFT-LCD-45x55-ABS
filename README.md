@@ -13,7 +13,8 @@
 <br>
 
 # 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD  45x55 ABS
-This is the repository for the 12bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository
+This is the repository for revision "02-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
+
 
 <br>
 <br>
@@ -24,36 +25,36 @@ Fully working
 
 <br>
 
-## ToDo List
-- PCB bug hunting
+## Known faults
 - PCB copper track optimizations
+- components rearrangement for optimization of PCB track inductance 
 
 <br>
 <br>
 
 ## Dataverse API C library
 
-In parallel is being written a C library to expedite API integration on smart DAQ devices or elsewhere. Follow the link to its repository:
+This device uses my C++ library to expedite dataverse API integration on smart DAQ devices or elsewhere. Follow the link to its repository:
 
 https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
 
-
-[![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png)](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library)
+<p align="center">
+<a href="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library"> 
+    <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png" width="30%">
+ 
+</a>
+ 
+</p>
 
 <br>
-<br>
-
-![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/12bitSmartDAQoctober.jpeg)
-
-On the photo above the smart DAQ is installed on an acrylic case and screwed with plastic screws to an acrylic base with the same cross section area as the specimen to be tested. 
-
-The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL). And the acrylic case [here](https://s.click.aliexpress.com/e/_Dmudkjt). 
-
 <br>
 
 ![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/smartAsphaltSample.jpeg)
 
-On the photo above is one of my many specimens I purposely fabricated to research self-sensing properties of a asphalt mixed with a known content of carbon fibers. This is a 10cm cylinder specimen and on the top is already setup my own design smart #DAQ (get it here on my GitHub ) with ability do upload LIVE experimental data to a #dataverse.
+The photo above is one of the many specimens I purposely fabricated to research self-sensing properties of asphalt mixed with a known content of carbon fibers. This is a 10cm cylinder specimen and on the top is already setup my own design smart #DAQ (get it here on my GitHub ) with the ability to upload LIVE experimental data to a #dataverse.
+
+In the photo above the smart DAQ is installed on an acrylic case and screwed with plastic screws to an acrylic base with the same cross-section area as the specimen to be tested. 
+The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL). And the acrylic case [here](https://s.click.aliexpress.com/e/_Dmudkjt). 
 
 
 <br>
@@ -77,12 +78,12 @@ The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are
   - DFN-8 SHT3.x; temperature sensor with a precision of 1.5C;
   - DFN-8 SHT3.x humidity sensor;
   - LGA-14 LSM6DS3 a 6-axis accelerometer and gyroscope;
-  - reference voltage sessor calibration wiht temperature and humidity
+  - reference voltage sensor calibration with temperature and humidity
 - 	External connectivity for up to 118 sensors:
   -  1x I2C pin terminal connector (shared)
   -  1x 12 to 16bit (oversampling & digitization) digital terminal connector (shared)
-  -  1x 12 to 16bit (oversampling & digitization) analog terminal connector (shared) with manual scale selection ohmeter via jumper pin
-  -  12 to 16bit (oversampling & digitization) voltage reference analyser with temperature compensation 
+  -  1x 12 to 16bit (oversampling & digitization) analog terminal connector (shared) with manual scale selection ohmmeter via jumper pin
+  -  12 to 16bit (oversampling & digitization) voltage reference analyzer with temperature compensation 
 - 1.69 inch TFT IPS LCD  
 
 
@@ -97,7 +98,7 @@ The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are
 - do temperature and humidity compensation on all measurements 
 - has a voltage reference sensor for improved accuracy on ADC measurements  
 - has a motion sensor to know if anyone moved a specimen during an experiment
-- ability to show live experimental data oon the 1.69 inch TFT IPS LCD  
+- ability to show live experimental data on the 1.69-inch TFT IPS LCD  
 
 <br>
 <br>
@@ -107,11 +108,11 @@ The PCB circuit schematic is available in PDF located in the folder "PCB Schemat
 <br>
 
 ## PCB design files
-The PCB gerber files are located in the folder "gerber" and are ready to order online on any pcb fabrication store. (PCBWay, AllPCB, Eurocircuits, etc)
+The PCB gerber files are located in the folder "gerber" and are ready to order online at any PCB fabrication store. (PCBWay, AllPCB, Eurocircuits, etc)
 <br>
 <br>
 
-![](https://github.com/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint/blob/main/Designs/smart_daq_front.png)
+![](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png)
 
 <br>
 <br>
