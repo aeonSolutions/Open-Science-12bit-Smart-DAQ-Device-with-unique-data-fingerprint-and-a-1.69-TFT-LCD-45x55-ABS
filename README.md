@@ -8,7 +8,7 @@
 </a>
 ![](https://views.whatilearened.today/views/github/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint.svg)
 
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> 12-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD  45x55 ABS
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> 12-bit Smart DAQs >> 12-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD  45x55 ABS
 
 <br>
 
