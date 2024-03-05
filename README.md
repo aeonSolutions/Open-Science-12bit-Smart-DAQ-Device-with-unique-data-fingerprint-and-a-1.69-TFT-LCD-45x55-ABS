@@ -1,5 +1,4 @@
-[![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
- [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
+[![](https://dcbadge.vercel.app/api/server/czYK5pXA) ](https://discord.gg/czYK5pXA)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
  [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
 ![](https://img.shields.io/github/last-commit/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint?style=for-the-badge)
@@ -13,8 +12,12 @@
 <br>
 
 # 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD  45x55 ABS
-This is the repository for revision "02-2023" of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository.
-
+This is the repository for revision of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository. In here one can find the following hardware electronics revisions:
+- SDAD rev. 01-2023
+- SDAD rev. 02-2023
+- SDAD rev. 03-2023
+- SDAD rev. 03-2023 B
+- SDAD rev. 09-2023
 
 <br>
 <br>
