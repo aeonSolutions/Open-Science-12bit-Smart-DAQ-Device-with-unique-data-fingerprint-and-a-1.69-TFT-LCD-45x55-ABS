@@ -19,22 +19,18 @@ This is the repository for revision of the 12-bit Smart DAQ Device with a unique
 - SDAD rev. 03-2023 B
 - SDAD rev. 09-2023
 
-<br>
-<br>
+<p align="center">
+   <img height="300pc" src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/smartAsphaltSample.jpeg">
+</p>
 
-**Status**
+#### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: Tested. Require improvements. 
 
-Fully working
-
-<br>
-
-## Known faults
+**Known faults:**
 - PCB copper track optimizations
 - components rearrangement for optimization of PCB track inductance 
 
 <br>
-<br>
-
+ 
 ## Dataverse API C library
 
 This device uses my C++ library to expedite dataverse API integration on smart DAQ devices or elsewhere. Follow the link to its repository:
@@ -43,16 +39,12 @@ https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library
 
 <p align="center">
 <a href="https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library"> 
-    <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png" width="30%">
- 
+    <img src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/dataverse_r_project.png" width="30%"> 
 </a>
- 
 </p>
 
 <br>
 <br>
-
-![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/smartAsphaltSample.jpeg)
 
 The photo above is one of the many specimens I purposely fabricated to research self-sensing properties of asphalt mixed with a known content of carbon fibers. This is a 10cm cylinder specimen and on the top is already setup my own design smart #DAQ (get it here on my GitHub ) with the ability to upload LIVE experimental data to a #dataverse.
 
@@ -64,34 +56,8 @@ The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL)
 <br>
 
 ### Smart PCB Hardware Specifications
-The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are the following:
+The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki/Smart-DAQ-Specifications).
 
-
-- QFN 56 Dual Xtensa LX7 Core Processors running up to 240MHz
-  -	RISC V ultra-low power co-processor
-  - 512Kb RAM (PSRAM max 1 Gb);
-  - 16Mb SOIC 8 NOR SPI Flash Memory (max 1Gb);
-  - 2.4GHz ISM wireless connectivity;
-  - Up to 118 12bit ADC Multiplexed DAQ channels;
-- Authentication & Security:
-  - SOIC-8 ATSHA204A SHA-256 high-security hardware authentication IC for secure and unique experimental data exchange
-- Power management
-  - DFN-6 AUR9718 high efficiency step-down 3.3V 1.5A DC converter;
-- Onboard sensors:
-  - DFN-8 SHT3.x; temperature sensor with a precision of 1.5C;
-  - DFN-8 SHT3.x humidity sensor;
-  - LGA-14 LSM6DS3 a 6-axis accelerometer and gyroscope;
-  - reference voltage sensor calibration with temperature and humidity
-- 	External connectivity for up to 118 sensors:
-  -  1x I2C pin terminal connector (shared)
-  -  1x 12 to 16bit (oversampling & digitization) digital terminal connector (shared)
-  -  1x 12 to 16bit (oversampling & digitization) analog terminal connector (shared) with manual scale selection ohmmeter via jumper pin
-  -  12 to 16bit (oversampling & digitization) voltage reference analyzer with temperature compensation 
-- 1.69 inch TFT IPS LCD  
-
-
-<br>
-<br>
 
  **In real life this smart DAQ is able to:**
 - connect to all kinds of 3V to 5V Digital sensors;
@@ -110,55 +76,102 @@ The hardware specifications for the 12bit pcb with dimensions of 23.5x43.5mm are
 The PCB circuit schematic is available in PDF located in the folder "PCB Schematic"
 <br>
 
-## PCB design files
-The PCB gerber files are located in the folder "gerber" and are ready to order online at any PCB fabrication store. (PCBWay, AllPCB, Eurocircuits, etc)
-<br>
+## KiCad project files
+The project files in KiCad are located in the folder "KiCad".
 <br>
 
-![](https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png)
+<p align="center">
+  <img height="300px" src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png">
+</p>
 
-<br>
 <br>
 
 ## Proof of Concept
 
 To test and validate proposed smart DAQ PCB electronics and its firmware as a solution for LIVE experimental data measurements on any test specimen part of a experimental campaign, This PCB electronics is being used to measure a predefined set of variables/parameters to further study several asphalt mixtures with known carbon fiber weight content in the asphalt matrix. Below is a YouTube link to an unedited short video showing one of the experimental setups.
 
-[![](https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/youtube.png)](https://youtu.be/eOA1JPgop0k)
+<p align="center">
+   <a href="https://youtu.be/eOA1JPgop0k">
+      <img height="250px" src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/youtube.png">
+   </a> <br>
+ <sup>Video on Youtube</sup>
+</p>
 
 
-<br />
-<br />
-<br />
 
-______________________________________________________________________________________________________________________________
-### License
-2022 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+## Join the Beta Program
+Join the beta program to test and debug to provide feedback, ideas, modifications, suggestions, improvements. And in return, write your own article blog or post on social media about it. See participation conditions on the [Wiki](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Beta-Participation-Agreement).  
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+## Contributing
 
-______________________________________________________________________________________________________________________________
+Bug reports and pull requests are welcome on any of AeonLabs repositories. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/aeonSolutions/OpenScience-Dataverse-API-C-library/blob/main/CODE_OF_CONDUCT.md).
 
-<br />
-<br />
+- Contributing
+  - [Your Contributions Matter](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Your-Contributions-Matter)
+  - [Contributor Code of Conduct](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Contributor-Code-of-Conduct)
+
+<br>
+
+**[Beta Participation Agreement](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/Beta-Participation-Agreement)**
+
+The Beta Participant Agreement is a legal document being executed between you and AeonLabs that outlines the conditions when participating in the Beta Program.
+
+## Coding standards
+
+Please make sure tests pass before committing, and add new tests for new additions.
+
+- Licensing 
+  - [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development)
+
+<br>
+<br>
+
+## Author
+
+You can get in touch with me on my LinkedIn Profile:
+
+#### Miguel Tomas
+
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/migueltomas/)
+
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-Miguel--Tomas-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/aeonSolutions)
+
+<br>
 
 ### Be supportive of my dedication and work towards technology education and buy me a cup of coffee
-Buy me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
+The PCB Desgin Files i provide here for anyone to use are free. If you like this Smart Device or use it, please consider buying me a cup of coffee, a slice of pizza or a book to help me study, eat and think new PCB design files.
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" />](https://www.buymeacoffee.com/migueltomas)
+<p align="center">
+    <a href="https://www.buymeacoffee.com/migueltomas">
+        <img height="35" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+    </a>
+</p>
 
-<br />
-<br />
 
 ### Make a donation on Paypal
 Make a donation on paypal and get a TAX refund*.
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/paypal_small.png)](http://paypal.me/mtpsilva)
+<p align="center">
+    <a href="http://paypal.me/mtpsilva">
+        <img height="35" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/paypal_small.png">
+    </a>
+</p>
 
+### Support all these open hardware projects and become a Github sponsor  
+Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a Github sponsor.
 
-### Support all these open hardware projects and become a patreon  
-Liked any of my PCB KiCad Designs? Help and Support my open work to all by becomming a LDAD Patreon.
-In return I will give a free PCB design in KiCad to all patreon supporters. To learn more go to patreon.com. Link below.
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="50" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
 
-[![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/patreon_small.png)](https://www.patreon.com/ldad)
+# 
+
+### License
+
+Before proceeding to download any of AeonLabs software solutions for open-source development and/or PCB hardware electronics development make sure you are choosing the right license for your project. See [AeonLabs Solutions for Open Hardware & Source Development](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/wiki/AeonLabs-Solutions-for-Open-Hardware-&-Source-Development) for more information. 
 
