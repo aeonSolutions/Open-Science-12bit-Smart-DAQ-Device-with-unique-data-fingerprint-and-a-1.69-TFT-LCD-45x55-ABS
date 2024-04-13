@@ -1,11 +1,15 @@
-[![](https://dcbadge.vercel.app/api/server/czYK5pXA) ](https://discord.gg/czYK5pXA)
+[![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
- [![Say Thanks](https://img.shields.io/badge/Say%20Thanks-!-yellow.svg?style=for-the-badge)](https://saythanks.io/to/mtpsilva)
-![](https://img.shields.io/github/last-commit/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint?style=for-the-badge)
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lbp3wclsex7ya7ravspl" alt="trackgit-views" />
+<a href="https://github.com/sponsors/aeonSolutions">
+   <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
 </a>
-![](https://views.whatilearened.today/views/github/aeonSolutions/-openScienceResearch-12bit-LCD-1.69-TFT-Smart-DAQ-Device-with-unique-data-fingerprint.svg)
+![](https://views.whatilearened.today/views/github/aeonSolutions/PCB-Prototyping-Catalogue.svg)
+**Unique Visits** <a href="https://trackgit.com"> <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l5m5z1845s10s47cuyl5" alt="trackgit-views" /> </a>
+[![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/PCB-Prototyping-Catalogue/fork)
+[![GitHub stars](https://img.shields.io/github/stars/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/aeonSolutions/PCB-Prototyping-Catalogue/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/aeonSolutions/PCB-Prototyping-Catalogue.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/aeonSolutions/PCB-Prototyping-Catalogue/watchers/)
+[![GitHub followers](https://img.shields.io/github/followers/aeonSolutions.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aeonSolutions?tab=followers) 
+</p>
 
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Laboratory Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Laboratory%20Automation)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> [12-bit Smart DAQs](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ/12-bit) >> 12-bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD  45x55 ABS
 
@@ -18,6 +22,7 @@ This is the repository for revision of the 12-bit Smart DAQ Device with a unique
 - SDAD rev. 03-2023
 - SDAD rev. 03-2023 B
 - SDAD rev. 09-2023
+- SDAD rev. 
 
 <p align="center">
    <img height="300pc" src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/smartAsphaltSample.jpeg">
