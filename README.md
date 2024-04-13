@@ -16,7 +16,19 @@
 <br>
 
 # 12bit Smart DAQ Device with unique data fingerprint and a 1.69" TFT LCD  45x55 ABS
-This is the repository for revision of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository. In here one can find the following hardware electronics revisions:
+This is the repository for revision of the 12-bit Smart DAQ Device with a unique data fingerprint able to do experimental data upload to any data repository. 
+
+<br>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/sdad/2ch/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/sdad/2ch/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
+
+<br>
+
+Here one can find the following hardware electronics revisions:
 - SDAD rev. 01-2023
 - SDAD rev. 02-2023
 - SDAD rev. 03-2023
@@ -56,8 +68,15 @@ The photo above is one of the many specimens I purposely fabricated to research 
 In the photo above the smart DAQ is installed on an acrylic case and screwed with plastic screws to an acrylic base with the same cross-section area as the specimen to be tested. 
 The acrylic base can be bought [here](https://s.click.aliexpress.com/e/_DEGsZaL). And the acrylic case [here](https://s.click.aliexpress.com/e/_Dmudkjt). 
 
-
 <br>
+
+## CE Ready Logo
+This hardware is ready to get a CE marking. To learn more about this marking goto to [Wikipedia here](https://en.wikipedia.org/wiki/CE_marking).
+
+<p align="center">
+   <img height="100px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/CE_READY.png">
+</p>
+
 <br>
 
 ### Smart PCB Hardware Specifications
@@ -86,7 +105,7 @@ The project files in KiCad are located in the folder "KiCad".
 <br>
 
 <p align="center">
-  <img height="300px" src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png">
+  <img height="200px" src="https://github.com/aeonSolutions/Open-Science-12bit-Smart-DAQ-Device-with-unique-data-fingerprint-and-a-1.69-TFT-LCD-45x55-ABS/blob/main/designs/image_2023-06-28_124820880.png">
 </p>
 
 <br>
