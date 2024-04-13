@@ -22,7 +22,7 @@ This is the repository for revision of the 12-bit Smart DAQ Device with a unique
 - SDAD rev. 03-2023
 - SDAD rev. 03-2023 B
 - SDAD rev. 09-2023
-- SDAD rev. 
+- SDAD rev. 10-2023
 
 <p align="center">
    <img height="300pc" src="https://github.com/aeonSolutions/openScienceResearch-Smart-DAQ-Device-able-to-Upload-Live-Experimental-Sensor-Data-to-a-Data-Repo/blob/main/Design/smartAsphaltSample.jpeg">
